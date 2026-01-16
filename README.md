@@ -4,6 +4,10 @@
 
 Debido a la configuración de seguridad del servidor (TLS explícito), se utilizó el cliente `lftp` que soporta cifrado moderno, en lugar del cliente `ftp` básico.
 
+### Pasos
+
+![](https://raw.githubusercontent.com/JosecarlosGlr/PruebasConClientesEnL-neaDeComandos/refs/heads/main/1.png)
+
 | Comando | Función |
 | :--- | :--- |
 | `lftp` | Inicia el programa cliente FTP avanzado. |
