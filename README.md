@@ -7,6 +7,10 @@ Debido a la configuración de seguridad del servidor (TLS explícito), se utiliz
 ### Pasos
 
 ![](https://raw.githubusercontent.com/JosecarlosGlr/PruebasConClientesEnL-neaDeComandos/refs/heads/main/1.png)
+![](https://raw.githubusercontent.com/JosecarlosGlr/PruebasConClientesEnL-neaDeComandos/refs/heads/main/3.png)
+![](https://raw.githubusercontent.com/JosecarlosGlr/PruebasConClientesEnL-neaDeComandos/refs/heads/main/2.png)
+![](https://raw.githubusercontent.com/JosecarlosGlr/PruebasConClientesEnL-neaDeComandos/refs/heads/main/4.png)
+![](https://raw.githubusercontent.com/JosecarlosGlr/PruebasConClientesEnL-neaDeComandos/refs/heads/main/5.png)
 
 | Comando | Función |
 | :--- | :--- |
