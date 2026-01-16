@@ -24,4 +24,3 @@ Me descargo archivos y subo archivos
 | `ls` | **Listar.** Muestra el contenido del directorio remoto (en este caso `/tmp/ftp_lab`). |
 | `put archivo_local.txt` | **Subir.** Transfiere un archivo desde el cliente al servidor. |
 | `get archivo_del_servidor.txt` | **Descargar.** Transfiere un archivo desde el servidor hacia el cliente. |
-| `exit` | Cierra la sesión y el programa. |
