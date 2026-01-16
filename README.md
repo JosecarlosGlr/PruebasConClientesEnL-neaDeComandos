@@ -7,11 +7,15 @@ Debido a la configuración de seguridad del servidor (TLS explícito), se utiliz
 ### Pasos
 
 ![](https://raw.githubusercontent.com/JosecarlosGlr/PruebasConClientesEnL-neaDeComandos/refs/heads/main/1.png)
-![](https://raw.githubusercontent.com/JosecarlosGlr/PruebasConClientesEnL-neaDeComandos/refs/heads/main/3.png)
+Creo el archivo, aunque mas adelante descargo otro que cree en otro momento
 ![](https://raw.githubusercontent.com/JosecarlosGlr/PruebasConClientesEnL-neaDeComandos/refs/heads/main/2.png)
+Me descargo lftp y inicio sesión con usuario1 aunque la practica la realizo con tester
 ![](https://raw.githubusercontent.com/JosecarlosGlr/PruebasConClientesEnL-neaDeComandos/refs/heads/main/4.png)
+Muestro los usuarios que tengo para demostrar que tester esta entre ellos
+![](https://raw.githubusercontent.com/JosecarlosGlr/PruebasConClientesEnL-neaDeComandos/refs/heads/main/3.png)
+Hago ls con tester
 ![](https://raw.githubusercontent.com/JosecarlosGlr/PruebasConClientesEnL-neaDeComandos/refs/heads/main/5.png)
-
+Me descargo archivos y subo archivos
 | Comando | Función |
 | :--- | :--- |
 | `lftp` | Inicia el programa cliente FTP avanzado. |
